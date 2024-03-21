@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "terminal-card"
+version = "0.1.0"
+description = ""
+authors = ["hyp3r00t <rajesh@hyperoot.dev>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+rich = "^13.7.1"
+pyfiglet = "^1.0.2"
+termcolor = "^2.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
