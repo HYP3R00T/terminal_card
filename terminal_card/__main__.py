@@ -40,6 +40,7 @@ def main(text) -> None:
         )
         print("\n\n")
         input()
+    console.clear()
 
 
 if __name__ == "__main__":
